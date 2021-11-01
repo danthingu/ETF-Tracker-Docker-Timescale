@@ -1,0 +1,58 @@
+date,fund,company,ticker,cusip,shares,"market value ($)","weight (%)"
+10/29/2021,PRNT,"MATERIALISE NV-ADR",MTLS,57667T100,"850,594","$21,409,450.98",4.52%
+10/29/2021,PRNT,"STRAUMANN HOLDING AG-REG",STMN,7156832,"9,154","$19,745,102.23",4.17%
+10/29/2021,PRNT,"STRATASYS LTD",SSYS,M85548101,"634,994","$19,640,364.42",4.14%
+10/29/2021,PRNT,"RENISHAW PLC",RSW,0732358,"279,699","$19,518,099.87",4.12%
+10/29/2021,PRNT,"HP INC",HPQ,40434L105,"636,621","$19,385,109.45",4.09%
+10/29/2021,PRNT,"AUTODESK INC",ADSK,052769106,"59,626","$18,907,404.60",3.99%
+10/29/2021,PRNT,"DASSAULT SYSTEMES SE","DSY FP",BM8H5Y5,"324,149","$18,931,061.87",3.99%
+10/29/2021,PRNT,"MICROSOFT CORP",MSFT,594918104,"56,910","$18,458,758.50",3.90%
+10/29/2021,PRNT,"NANO DIMENSION LTD - ADR",NNDM,63008G203,"3,097,760","$18,214,828.80",3.84%
+10/29/2021,PRNT,"ALTAIR ENGINEERING INC - A",ALTR,021369103,"236,013","$18,144,679.44",3.83%
+10/29/2021,PRNT,"DESKTOP METAL INC-A",DM,25058X105,"2,526,776","$18,041,180.64",3.81%
+10/29/2021,PRNT,"3D SYSTEMS CORP",DDD,88554D205,"646,576","$18,039,470.40",3.81%
+10/29/2021,PRNT,"TRIMBLE INC",TRMB,896239100,"206,111","$18,075,934.70",3.81%
+10/29/2021,PRNT,"ANSYS INC",ANSS,03662Q105,"47,954","$17,982,270.46",3.79%
+10/29/2021,PRNT,"PTC INC",PTC,69370C100,"140,112","$17,776,009.44",3.75%
+10/29/2021,PRNT,"EXONE CO/THE",XONE,302104104,"781,046","$17,565,724.54",3.71%
+10/29/2021,PRNT,"SLM SOLUTIONS GROUP AG",AM3D,BMHTHK2,"860,781","$17,072,245.31",3.60%
+10/29/2021,PRNT,"CONFORMIS INC",CFMS,20717E101,"14,014,648","$16,957,724.08",3.58%
+10/29/2021,PRNT,"BICO GROUP AB",BICO,BKMFJ94,"318,478","$16,511,195.29",3.48%
+10/29/2021,PRNT,"XOMETRY INC-A",XMTR,98423F109,"298,983","$16,103,224.38",3.40%
+10/29/2021,PRNT,"PROTO LABS INC",PRLB,743713109,"251,142","$14,726,966.88",3.11%
+10/29/2021,PRNT,"ALIGN TECHNOLOGY INC",ALGN,016255101,"9,619","$6,077,284.20",1.28%
+10/29/2021,PRNT,"UNITED PARCEL SERVICE-CL B",UPS,911312106,"28,360","$6,066,204.00",1.28%
+10/29/2021,PRNT,"HEXAGON AB-B SHS","HEXAB S",BNZFHC1,"363,593","$5,976,040.90",1.26%
+10/29/2021,PRNT,"AMETEK INC",AME,031100100,"44,773","$5,909,588.27",1.25%
+10/29/2021,PRNT,"FARO TECHNOLOGIES INC",FARO,311642102,"81,993","$5,751,808.95",1.21%
+10/29/2021,PRNT,"MICHELIN (CGDE)",ML,4588364,"35,474","$5,606,195.55",1.18%
+10/29/2021,PRNT,"LINCOLN ELECTRIC HOLDINGS",LECO,533900106,"39,765","$5,583,006.00",1.18%
+10/29/2021,PRNT,"GENERAL ELECTRIC CO",GE,369604301,"52,794","$5,557,096.44",1.17%
+10/29/2021,PRNT,"EXCO TECHNOLOGIES LTD",XTC,2325392,"675,649","$5,392,709.38",1.14%
+10/29/2021,PRNT,"SIEMENS AG-REG",SIE,5727973,"33,146","$5,414,057.02",1.14%
+10/29/2021,PRNT,"AEROJET ROCKETDYNE HOLDINGS",AJRD,007800105,"124,102","$5,417,052.30",1.14%
+10/29/2021,PRNT,"ARCONIC CORP",ARNC,03966V107,"172,889","$5,273,114.50",1.11%
+10/29/2021,PRNT,"MOOG INC-CLASS A",MOG/A,615394202,"67,244","$5,171,736.04",1.09%
+10/29/2021,PRNT,"OC OERLIKON CORP AG-REG",OERL,4612757,"498,121","$5,089,609.95",1.07%
+10/29/2021,PRNT,"KAISER ALUMINUM CORP",KALU,483007704,"47,478","$4,746,375.66",1.00%
+10/29/2021,PRNT,"DREYFUS GOVT CASH MAN INS",,X9USDDGCM,"667,009","$667,009.20",0.14%
+10/29/2021,PRNT,"5N PLUS INC",VNP,B2B3VZ3,"222,098","$557,899.52",0.12%
+10/29/2021,PRNT,"3M CO",MMM,88579Y101,"2,807","$504,895.09",0.11%
+10/29/2021,PRNT,"EVONIK INDUSTRIES AG",EVK,B5ZQ9D3,"16,053","$531,956.14",0.11%
+10/29/2021,PRNT,"SANDVIK AB",SAND,B1VQ252,"20,616","$527,631.74",0.11%
+10/29/2021,PRNT,ARKEMA,AKE,B0Z5YZ2,"3,852","$538,343.24",0.11%
+10/29/2021,PRNT,"KONINKLIJKE DSM NV",DSM,B0HZL93,"2,407","$532,636.57",0.11%
+10/29/2021,PRNT,"TORAY INDUSTRIES INC",3402,6897143,"81,199","$502,364.30",0.11%
+10/29/2021,PRNT,"HENKEL AG & CO KGAA VOR-PREF",HEN3,5076705,"5,575","$499,720.25",0.11%
+10/29/2021,PRNT,"VOESTALPINE AG",VOE,4943402,"13,338","$509,135.11",0.11%
+10/29/2021,PRNT,"EASTMAN CHEMICAL CO",EMN,277432100,"4,590","$505,083.60",0.11%
+10/29/2021,PRNT,"ALLEGHENY TECHNOLOGIES INC",ATI,01741R102,"29,612","$495,704.88",0.10%
+10/29/2021,PRNT,"CARPENTER TECHNOLOGY",CRS,144285103,"15,178","$477,955.22",0.10%
+10/29/2021,PRNT,"DUPONT DE NEMOURS INC",DD,26614N102,"7,061","$492,575.36",0.10%
+10/29/2021,PRNT,"EASTMAN KODAK CO",KODK,277461406,"70,039","$473,463.64",0.10%
+10/29/2021,PRNT,"HEXCEL CORP",HXL,428291108,"8,257","$465,034.24",0.10%
+10/29/2021,PRNT,"SGL CARBON SE",SGL,4818351,"47,194","$461,394.62",0.10%
+10/29/2021,PRNT,"PYROGENESIS CANADA INC",PYR,B43JTF9,"124,338","$470,511.68",0.10%
+10/29/2021,PRNT,"XEROX HOLDINGS CORP",XRX,98421M106,"24,813","$446,634.00",0.09%
+10/29/2021,PRNT,"GREAT BRITISH POUND",,GBP,0,$0.33,0.00%
+"The principal risks of investing in ARK ETFs include equity, market, management and non-diversification risks, as well as fluctuations in market value and net asset value ('NAV'). Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ETF before investing. This and other information are contained in each ETF's prospectus, which may be obtained by contacting the ETF's transfer agent The Bank of New York Mellon or by clicking here. Please read the prospectus carefully before you invest. The market price of ETF shares may differ significantly from their NAV during periods of market volatility. ETF shares may only be redeemed directly with the ETF at NAV by Authorized Participants, in very large creation units. Holdings are subject to change without notice and are not a recommendation to buy or sell any security. There can be no guarantee that an active trading market for ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Copyright 2021, ARK Investment Management LLC. All content is original and has been researched and produced by ARK Investment Management LLC unless otherwise stated. No part of this content may be reproduced in any form, or referred to in any other publication, without the express written permission of ARK Investment Management LLC. All statements made regarding companies, securities or other financial information on this site or any sites or articles relating to ARK Investment Management LLC are strictly beliefs and points of view held by ARK Investment Management and are subject to change without notice. Information contained herein has been obtained from sources believed to be reliable, but not guaranteed. This material has been distributed for informational purposes only and should not be considered as investment advice or a recommendation of any particular security, strategy or investment product."
