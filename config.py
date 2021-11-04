@@ -1,8 +1,8 @@
 API_URL='https://paper-api.alpaca.markets'
-API_KEY='PKEBYVRHR849A8Y96PWV'
-API_SECRET='nG8zbWYZwv9ycV0NsNiUOrnzBIxDzk8WKKpH7vLp'
+API_KEY=''
+API_SECRET=''
 
-POLYGON_API_KEY='Xe0TCOlitNLtY5nsf1rA_5xFVWgpY3tX'
+POLYGON_API_KEY=''
 
 DB_HOST='localhost'
 DB_USER='postgres'
